@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "615079065465",
+    "firebase_url": "https://deltaproject-c9e88.firebaseio.com",
+    "project_id": "deltaproject-c9e88",
+    "storage_bucket": "deltaproject-c9e88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615079065465:android:10a01ade0b55a717",
+        "android_client_info": {
+          "package_name": "com.example.game.deltaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615079065465-26ts59svs84s37qr5rfp35eas8h8q6v5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.game.deltaproject",
+            "certificate_hash": "120680dead44318f4d14c3bea208c77385843bc5"
+          }
+        },
+        {
+          "client_id": "615079065465-kauqlvrlm3r3frigv0q1ufucg2ekm00e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHuWVf3suB-4fpozsyb91tmkR6h2aHciA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615079065465-kauqlvrlm3r3frigv0q1ufucg2ekm00e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
